@@ -4,6 +4,8 @@ This is the Harvardx Data Science Capstone project. In this project, we are goin
 
 In this HK property price prediction project, the deliverables include:
 
-The R script which creates and validates the prediction models
+The R script which creates and validates the prediction models.
+
 The project report which includes the dataset evaluation, model creation procedures, and final result
+
 The Rmd file which includes and generates the R script and project report described in Point 1 and 2
