@@ -6,6 +6,12 @@ In this HK property price prediction project, the deliverables include:
 
 The R script which creates and validates the prediction models.
 
-The project report which includes the dataset evaluation, model creation procedures, and final result
+The PDF project report which includes the dataset evaluation, model creation procedures, and final result
 
 The Rmd file which includes and generates the R script and project report described in Point 1 and 2
+
+Besides, there are 2 ZIP files. gadm36_HKG_shp.zip and achieve.zip
+
+"gadm36_HKG_shp.zip" contains the polygons of Hong Kong district maps.
+
+"achieve.zip" contains the Hong Kong property transaction data.
